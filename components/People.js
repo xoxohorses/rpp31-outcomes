@@ -25,12 +25,12 @@ export default function People() {
   });
 
   return (
-    <div>
+    <div className={styles.section}>
       <code className={styles.code}>People</code>
-      <table>
+      <table className={styles.peopleTable}>
         <thead>
           <tr>
-            <th colSpan="2">Name</th>
+            <th colSpan="2"></th>
             <th>Length</th>
             <th>Stack</th>
             <th>Industry</th>
