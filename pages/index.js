@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 // components
+import Spacer from '../components/Spacer.js';
 import People from '../components/People.js';
 import Length from '../components/Length.js';
 import Stack from '../components/Stack.js';
@@ -42,9 +43,13 @@ export default function Home() {
         />
         <h1 className={styles.title}>Outcome Tracker</h1>
 
+        <Spacer />
         <People />
+        <Spacer />
         <Length />
+        <Spacer />
         <Stack />
+        <Spacer />
         <Industry />
       </main>
 

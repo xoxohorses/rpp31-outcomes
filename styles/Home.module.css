@@ -1,7 +1,12 @@
 .container {
-min-width: 100%;
-min-height: 100%;
-position: absolute;
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+}
+
+.spacer {
+  width: 48px;
+  height: 48px;
 }
 
 .filter {
