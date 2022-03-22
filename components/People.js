@@ -13,13 +13,7 @@ export default function People() {
           <Picture src={person.photo} size="75vw" />
         </td>
         <td>{person.firstName}</td>
-        <td>
-          {person.searchEndDate
-            ? helper.daysElapsed(new Date(2022, 3, 19), person.searchEndDate)
-            : 'N/A'}
-        </td>
-        <td>{person.stack ? person.stack : 'N/A'}</td>
-        <td>{person.industry ? person.industry : 'N/A'}</td>
+        <td>{person.company}</td>
       </tr>
     );
   });
@@ -31,9 +25,7 @@ export default function People() {
         <thead>
           <tr>
             <th colSpan="2"></th>
-            <th>Length</th>
-            <th>Stack</th>
-            <th>Industry</th>
+            <th>Company</th>
           </tr>
         </thead>
         <tbody>{people}</tbody>
