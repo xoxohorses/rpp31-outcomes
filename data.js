@@ -4,8 +4,7 @@ export default data = [
   {
     firstName: 'Adam',
     lastName: 'Lohnes',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/66277829?v=4',
     searchEndDate: new Date(2022, 3, 19),
     company: null,
     industry: null,
@@ -18,8 +17,7 @@ export default data = [
   {
     firstName: 'Cam',
     lastName: 'Colaco',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/78557835?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -32,8 +30,7 @@ export default data = [
   {
     firstName: 'Chris',
     lastName: 'Lazzarini',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/49167372?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -46,8 +43,7 @@ export default data = [
   {
     firstName: 'Chris',
     lastName: 'Turcios',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/77170411?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -60,8 +56,7 @@ export default data = [
   {
     firstName: 'Clayton',
     lastName: 'Watterson',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/3577150?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -70,8 +65,7 @@ export default data = [
   {
     firstName: 'Jake',
     lastName: 'Caughern',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/80003881?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -84,8 +78,7 @@ export default data = [
   {
     firstName: 'Joey',
     lastName: 'Dowling',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/77697842?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -98,8 +91,7 @@ export default data = [
   {
     firstName: 'Josh',
     lastName: 'Fuqua',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/79943156?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -126,8 +118,7 @@ export default data = [
   {
     firstName: 'Julie',
     lastName: 'Yu',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/69382434?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -140,8 +131,7 @@ export default data = [
   {
     firstName: 'Maggie',
     lastName: 'Saldivia',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/13864148?v=4',
     searchEndDate: new Date(2022, 3, 21),
     company: null,
     industry: 'Finance',
@@ -154,8 +144,7 @@ export default data = [
   {
     firstName: 'Mary',
     lastName: 'Miyamoto',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/82669320?v=4',
     searchEndDate: null,
     company: null,
     industry: 'null',
@@ -168,8 +157,7 @@ export default data = [
   {
     firstName: 'Maxine',
     lastName: 'Majnaric',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/64869554?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -182,8 +170,7 @@ export default data = [
   {
     firstName: 'Michael',
     lastName: 'Lapid',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/19236670?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -196,8 +183,7 @@ export default data = [
   {
     firstName: 'Michael',
     lastName: 'Lee',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/82406930?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -210,8 +196,7 @@ export default data = [
   {
     firstName: 'Michael',
     lastName: 'Pollens',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/71514552?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -224,8 +209,7 @@ export default data = [
   {
     firstName: 'Poyraz',
     lastName: 'Akay',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/81498700?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -238,8 +222,7 @@ export default data = [
   {
     firstName: 'Rick',
     lastName: 'Kunz',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/19396164?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -266,8 +249,7 @@ export default data = [
   {
     firstName: 'Yitong',
     lastName: 'Liu',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/83916460?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -294,8 +276,7 @@ export default data = [
   {
     firstName: 'Yuanqi',
     lastName: 'Wang',
-    photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+    photo: 'https://avatars.githubusercontent.com/u/26532717?v=4',
     searchEndDate: null,
     company: null,
     industry: null,
