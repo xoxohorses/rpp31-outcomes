@@ -3,13 +3,14 @@ import data from '../data.js';
 import helper from '../helper.js';
 
 import Picture from './Picture.js';
+import Spacer from './Spacer.js';
 
 export default function People() {
   const people = data.map((person, index) => {
     return (
       <tr key={index}>
         <td>
-          <Picture src={person.photo} />
+          <Picture src={person.photo} size="75vw" />
         </td>
         <td>{person.firstName}</td>
         <td>
