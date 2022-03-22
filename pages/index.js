@@ -43,13 +43,13 @@ export default function Home() {
         />
         <h1 className={styles.title}>Outcome Tracker</h1>
 
-        <Spacer />
+        <Spacer size="48px" />
         <People />
-        <Spacer />
+        <Spacer size="48px" />
         <Length />
-        <Spacer />
+        <Spacer size="48px" />
         <Stack />
-        <Spacer />
+        <Spacer size="48px" />
         <Industry />
       </main>
 
