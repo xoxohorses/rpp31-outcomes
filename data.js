@@ -105,7 +105,7 @@ export default data = [
     firstName: 'Juan',
     lastName: 'Acosta',
     photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+      'https://res.cloudinary.com/xoxohorses/image/upload/v1646280016/s5hjbgyue24bp624ijbn.png',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -236,7 +236,7 @@ export default data = [
     firstName: 'Sangeetha',
     lastName: 'Nair',
     photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+      'https://res.cloudinary.com/xoxohorses/image/upload/v1646280016/s5hjbgyue24bp624ijbn.png',
     searchEndDate: null,
     company: null,
     industry: null,
@@ -263,7 +263,7 @@ export default data = [
     firstName: 'Yu',
     lastName: 'Zhang',
     photo:
-      'https://res.cloudinary.com/xoxohorses/image/upload/w_256,h_256,c_thumb,g_face/Julie_portrait_gkhxue.jpg',
+      'https://res.cloudinary.com/xoxohorses/image/upload/v1646280016/s5hjbgyue24bp624ijbn.png',
     searchEndDate: null,
     company: null,
     industry: null,
