@@ -17,7 +17,7 @@ export default function Home() {
           name="description"
           content="An outcome tracking app for Hack Reactor Cohort RPP31"
         />
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta name="viewport" content="width=device-width" />
         <link rel="icon" href="/RPP31-logos_black.webp" />
       </Head>
       <svg
