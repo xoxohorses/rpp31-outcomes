@@ -33,6 +33,10 @@
   align-items: center;
 }
 
+.peopleTable {
+  margin-top: 16px;
+}
+
 .peopleTable th,
 .peopleTable td {
   padding: 4px;
