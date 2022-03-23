@@ -39,12 +39,17 @@
 
 .peopleTable th,
 .peopleTable td {
-  padding: 4px;
+  padding: 8px;
   border-bottom: 2px solid white;
   border-collapse: collapse;
   text-align: center;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
   Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.imageWrapper {
+  height: 64px;
+  position: relative;
 }
 
 .footer {
