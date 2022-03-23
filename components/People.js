@@ -12,8 +12,9 @@ export default function People() {
         <td>
           <Picture src={person.photo} size="75vw" />
         </td>
-        <td>{person.firstName}</td>
-        <td>{person.company}</td>
+        <td>{`${person.firstName} ${person.lastName.slice(0, 1)}.`}</td>
+        <td>{person.stack ? `${person.stack}-Stack` : 'N/A'}</td>
+        <td>{person.company? <img src={person.company} alt="Company Logo" height="64px"/> : 'Still Looking!'}</td>
       </tr>
     );
   });
@@ -25,7 +26,8 @@ export default function People() {
         <thead>
           <tr>
             <th colSpan="2"></th>
-            <th>Company</th>
+            <th></th>
+            <th></th>
           </tr>
         </thead>
         <tbody>{people}</tbody>
