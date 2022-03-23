@@ -21,9 +21,10 @@ export default function Home() {
         <link rel="icon" href="/RPP31-logos_black.webp" />
       </Head>
       <svg
-        viewBox="0 0 1200 1200"
+        viewBox="0 0 1920 1920"
         xmlns="http://www.w3.org/2000/svg"
         className={styles.filter}
+        preserveAspectRatio="xMidYMid slice"
       >
         <filter id="noiseFilter">
           <feTurbulence
