@@ -4,9 +4,6 @@ import styles from '../styles/Home.module.css';
 // components
 import Spacer from '../components/Spacer.js';
 import People from '../components/People.js';
-import Length from '../components/Length.js';
-import Stack from '../components/Stack.js';
-import Industry from '../components/Industry.js';
 
 export default function Home() {
   return (
@@ -47,17 +44,15 @@ export default function Home() {
         />
         <h1 className={styles.title}>Outcome Tracker</h1>
 
-        <Spacer size="48px" />
-        <People />
-        <Spacer size="48px" />
-        <Length />
-        <Spacer size="48px" />
-        <Stack />
-        <Spacer size="48px" />
-        <Industry />
+          <Spacer size="48px" />
+          <People />
+          <Spacer size="48px" />
       </main>
 
-      <footer className={styles.footer}></footer>
+      <Spacer size="2rem" />
+      <footer className={styles.footer}>
+        Developed by Julie Yu using Next.js
+      </footer>
     </div>
   );
 }

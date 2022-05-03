@@ -2,6 +2,8 @@
   min-width: 100%;
   min-height: 100%;
   position: absolute;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+  Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .filter {
@@ -43,8 +45,6 @@
   border-bottom: 2px solid white;
   border-collapse: collapse;
   text-align: center;
-  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
-  Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .imageWrapper {
@@ -53,9 +53,9 @@
 }
 
 .footer {
+  padding: 2rem;
   display: flex;
   flex: 1;
-  padding: 2rem 0;
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
