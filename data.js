@@ -278,9 +278,9 @@ export default data = [
     lastName: 'Liu',
     photo: 'https://avatars.githubusercontent.com/u/83916460?v=4',
     searchEndDate: null,
-    company: 'Amazon Web Services',
+    company: 'Google',
     companyLogo:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png',
+      'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/500px-Google_2015_logo.svg.png',
     industry: null,
     role: 'Software Engineer',
     applications: 0,
@@ -291,7 +291,7 @@ export default data = [
   {
     firstName: 'Yu',
     lastName: 'Zhang',
-    photo: 'https://avatars.githubusercontent.com/u/83844510?v=4',
+    photo: ' https://avatars.githubusercontent.com/u/83844510?v=4',
     searchEndDate: null,
     company: null,
     companyLogo: null,
