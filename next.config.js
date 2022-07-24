@@ -12,6 +12,7 @@ const nextConfig = {
       'upload.wikimedia.org',
       'bestpass.com',
       'goodleap.com',
+      'seeklogo.com',
     ],
   },
 };

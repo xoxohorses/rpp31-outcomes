@@ -136,7 +136,7 @@ export default data = [
     searchEndDate: new Date(2022, 4, 27),
     company: 'Notion',
     companyLogo:
-      'https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224',
+      'https://seeklogo.com/images/N/notion-logo-4CE8FBF5C5-seeklogo.com.png',
     industry: null,
     role: 'Software Engineer',
     applications: 6,
